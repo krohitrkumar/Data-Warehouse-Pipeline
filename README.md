@@ -38,10 +38,3 @@ etl-warehouse-project/
 - Clean separation of concerns across ETL layers
 
 ---
-
-## 🧪 Sample Output / Results
-
-After running the full pipeline, you can validate results using:
-
-```bash
-psql -f 04_gold/verify_gold.sql
