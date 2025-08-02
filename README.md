@@ -27,7 +27,7 @@ etl-warehouse-project/
 │   └── check_errors.sql
 └── docs/                  # Project documentation
     └── README.md
----
+--
 
 ## 🚀 Features
 
@@ -37,4 +37,4 @@ etl-warehouse-project/
 - Reproducible pipeline using simple `psql` commands
 - Clean separation of concerns across ETL layers
 
----
+--
