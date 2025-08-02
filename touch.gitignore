@@ -1,0 +1,10 @@
+# Ignore dataset CSVs if too large
+01_datasets/**/*.csv
+
+# Ignore environment or credential files
+*.env
+*.pgpass
+
+# Ignore editor/OS files
+*.swp
+.DS_Store
